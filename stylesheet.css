@@ -1,0 +1,18 @@
+p.normal {font-weight: normal;
+        background-color:azure;}
+
+p.light {font-weight: lighter;}
+  
+p.thick {font-weight: bold;
+    font-size: 18;}
+
+p.thicker {font-weight: 900;
+            font-size: 40;}
+
+        
+h2 {color: green}
+        
+h3 {color: blue}
+        
+body {background-color:cornsilk}
+       
