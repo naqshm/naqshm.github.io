@@ -1,4 +1,5 @@
-p.normal {font-weight: normal;}
+p.normal {font-weight: normal;
+ font-color: #FF887C;}
 
 p.light {font-weight: lighter;}
   
@@ -6,12 +7,15 @@ p.thick {font-weight: bold;
     font-size: 18;}
 
 p.thicker {font-weight: 900;
-            font-size: 40;}
+           font-size: 56;
+           font-color: #065729;}
 
         
 h2 {color: #0E6655;}
         
 h3 {color: #229954;}
+
+h4 {color: #FBC1BB;}
         
 body {background-color:#ECFFCE;}
        
