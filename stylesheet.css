@@ -1,5 +1,4 @@
-p.normal {font-weight: normal;
-        background-color:azure;}
+p.normal {font-weight: normal;}
 
 p.light {font-weight: lighter;}
   
@@ -10,9 +9,9 @@ p.thicker {font-weight: 900;
             font-size: 40;}
 
         
-h2 {color: green}
+h2 {color: #0E6655}
         
-h3 {color: blue}
+h3 {color: #229954}
         
-body {background-color:cornsilk}
+body {background-color:#ECFFCE}
        
